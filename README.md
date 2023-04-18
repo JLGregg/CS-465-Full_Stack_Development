@@ -3,7 +3,7 @@ Architecture
 •	Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 o	ExpressHTML is used with Express framework for backend development with Node.js. 
 o	JavaScript can create dynamic and interactive webpages which will add interactivity. It can also validate user input, manipulate Document Object Model and be used alongside HTML and CSS.
-o	Single-page applications load a single HTML page and dynamically updates the content. This project we used Angular, but Vue and React are also popular choices with React being the most popular. SPAs can run faster and smoother than traditional web pages but do have some drawbacks as well.
+o	Single-page applications load a single HTML page and dynamically updates the content. In this project we used Angular, but Vue and React are also popular choices with React being the most popular. SPAs can run faster and smoother than traditional web pages but do have some drawbacks as well.
 •	Why did the backend use a NoSQL MongoDB database?
 o	MongoDB is flexible and does not use fixed schemas. It uses JSON format which works well with our JS code stack.
 Functionality
